@@ -1,0 +1,20 @@
+{
+  "name": "heroku-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiorRabinovich/heroku-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiorRabinovich/heroku-example/issues"
+  },
+  "homepage": "https://github.com/LiorRabinovich/heroku-example#readme"
+}
